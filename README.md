@@ -1,2 +1,3 @@
 # todo-app
-Created with CodeSandbox
+Simple todo app using React, stores your data in your localstorage.
+
